@@ -1,4 +1,4 @@
 # Python Program to Crack Your Wifi Password
-Is your wifi password strong enough??
-that a simple program cannot crack it.
+Forgot your passwords unable to crack it
+A simple program to crack it.
 Try for yourself :3
